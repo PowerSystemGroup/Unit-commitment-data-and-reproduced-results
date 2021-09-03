@@ -1,1 +1,1 @@
-# Unit-commitment-results[Detailed Results of 10-Units.xls](https://github.com/PowerSystemGroup/Unit-commitment-results/files/7103745/Detailed.Results.of.10-Units.xls)
+These .xls files are the UC results that we reproduced. The input data can be found in those references that are listed in Table II of ‘Piecewise Linear One-Terminal-Constrained Least Squares Approximation of Quadratic Cost Functions for Unit Commitment Problems’.
