@@ -1,1 +1,1 @@
-These .xls files are the detailed UC results that we reproduced. The input data can be found in those references that are listed in Table II of ‘Piecewise Linear One-Terminal-Constrained Least Squares Approximation of Quadratic Cost Functions for Unit Commitment Problems’.
+These .xls files are the detailed UC results that we reproduced. The input data can be found both in the data branch and in those references that are listed in Table II of ‘Piecewise Linear One-Terminal-Constrained Least Squares Approximation of Quadratic Cost Functions for Unit Commitment Problems’.
