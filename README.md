@@ -1,2 +1,1 @@
-# UCDataAndResults
-#This repository contains the input data and detailed results for the unit commitment study.
+These '.xlsx' files are the input data of paper 'Accuracy Study of Linearization Methods for Quadratic Cost Curves of Thermal Units in Generation Scheduling Problems'
