@@ -1,1 +1,1 @@
-These '.xlsx' files are the input data of paper 'Accuracy Study of Linearization Methods for Quadratic Cost Curves of Thermal Units in Generation Scheduling Problems'
+These '.xlsx' files are the input data of paper 'Accuracy study of linearization methods for quadratic cost curves of thermal units in unit commitment problems'
